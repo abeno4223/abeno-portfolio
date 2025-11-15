@@ -1,5 +1,5 @@
 # abeno-portfolio
-A portfolio of computer science projects created by Alexandra Beno during the pursuit of a Bachelor's in Computer Science at Western Governor's University.
+A portfolio of computer science projects created by Alexandra Beno during the pursuit of a Bachelor's in Computer Science at Western Governors University.
 
 Directory Explanation:
 - Computer Science Capstone: A machine-learning powered Video Game Recommendation Service for a fictional company.
