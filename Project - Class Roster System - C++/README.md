@@ -1,0 +1,1 @@
+This C++ application constructs of a database containing information about fictional students and their degree programs. Using object-oriented design principles, a roster of students is created, allowing the user to check for problems in the data or conduct analysis on student information.
